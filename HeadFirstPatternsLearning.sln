@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableBehaviour", "VariableBehaviour\VariableBehaviour.csproj", "{BB29336E-4155-4C0C-8731-1AC43532BC68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{B0CF306A-521D-4749-95F4-0275BF8D711C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BB29336E-4155-4C0C-8731-1AC43532BC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB29336E-4155-4C0C-8731-1AC43532BC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB29336E-4155-4C0C-8731-1AC43532BC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CF306A-521D-4749-95F4-0275BF8D711C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CF306A-521D-4749-95F4-0275BF8D711C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CF306A-521D-4749-95F4-0275BF8D711C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CF306A-521D-4749-95F4-0275BF8D711C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
